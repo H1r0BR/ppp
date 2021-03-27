@@ -1,5 +1,5 @@
 local paste = "https://raw.githubusercontent.com/H1r0BR/ppp/main/mainn"
-local message = "xGex7BNxBG join dmsvxcvxcord rn"
+local message = "xGex7BNxBG join dmsvxcvxcord server rn"
 if not game:IsLoaded() then game.Loaded:wait() end
 
 local rand = Random.new()
